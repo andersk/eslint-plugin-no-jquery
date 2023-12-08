@@ -74,6 +74,7 @@ $x.slice();
 $x.stop();
 $x.toArray();
 $x.triggerHandler();
+$x.uniqueSort();
 $x.width();
 $x.myPlugin();
 /* eslint-enable self/no-other-methods */
